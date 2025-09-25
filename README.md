@@ -9,6 +9,7 @@ I'm a B.Tech student at Malla Reddy University with a strong passion for softwar
 
 Let's connect and build something great together. Find me on [LinkedIn](https://www.linkedin.com/in/mareda-laxmi-narasimha-chary-bb8a81335/)!
 and to here's my leetcode account [leetcode](https://leetcode.com/u/Narasimhachry/)!
+mail id :[email](laxminarasimhachary4@gmail.com)
 
 <!--
 **narasimhacha/narasimhacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
