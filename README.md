@@ -3,7 +3,7 @@
 I'm a B.Tech student at Malla Reddy University with a strong passion for software engineering. I love diving into code and building things that make an impact, whether it's a seamless user interface or a complex algorithm.
 
 **My toolkit includes:**
-* **Languages:** Python (my go-to!)
+* **Languages:** Python (my go-to!), Java, Spring Boot
 * **Skills:** Frontend Development, DSA, problem-solving, and more!
 * **Learning:** Always eager to learn new technologies and grow as a developer.
 
