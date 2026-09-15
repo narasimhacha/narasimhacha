@@ -5,6 +5,7 @@ I'm a B.Tech student at Malla Reddy University with a strong passion for softwar
 **My toolkit includes:**
 * **Languages:** Python (my go-to!), Java
 * **Backend Framework** : Fast API
+* **Database** : SQL
 * **Skills:** Frontend Development, DSA, problem-solving, and more!
 * **Learning:** Always eager to learn new technologies and grow as a developer.
 
